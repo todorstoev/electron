@@ -1,0 +1,28 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todorstoev/electron.git"
+  },
+  "keywords": [
+    "electron",
+    "demo"
+  ],
+  "author": "Tstoev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/todorstoev/electron/issues"
+  },
+  "homepage": "https://github.com/todorstoev/electron#readme",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  },
+  "dependencies": {}
+}
